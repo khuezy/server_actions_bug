@@ -9,9 +9,12 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@libsql/client": "0.3.6",
+    "@package/core": "workspace:*",
+    "dayjs": "1.11.10",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.0.0"
+    "next": "14.0.2-canary.12"
   },
   "devDependencies": {
     "typescript": "^5",

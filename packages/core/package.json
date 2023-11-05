@@ -1,0 +1,7 @@
+{
+  "name": "@package/core",
+  "dependencies": {
+    "drizzle-kit": "0.19.13",
+    "drizzle-orm": "beta"
+  }
+}
