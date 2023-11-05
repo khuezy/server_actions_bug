@@ -7,5 +7,5 @@ export default function Button() {
   return <button onClick={async () => {
     const r = await getBetas()
     console.log(r)
-  }}>Create</button>
+  }}>Click me</button>
 }
